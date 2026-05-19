@@ -1,6 +1,7 @@
 # Medical Records Validator
 
-A Python workshop project that validates a list of medical records against a set of formatting and type constraints.
+A Python workshop project that validates a list of medical records against a set of formatting and type constraints using regex and custom rules. Built as part of the [freeCodeCamp Python Certification]((https://www.freecodecamp.org/learn/python-v9)).
+ 
 
 ## What It Does
 
